@@ -1,0 +1,10 @@
+h1
+{
+    color:crimson;
+}
+a:hover
+{
+    background-color:khaki;
+    color:forestgreen;
+    font-size: large;
+}
